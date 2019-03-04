@@ -28,4 +28,5 @@ Assuming you have a dataset and features extracted in the data folder:
   ``
  train.py --epochs=20 --batch_size=64 --lr=0.00001
  ``
+
 Further adjustments can be done by adding compiling arguments
